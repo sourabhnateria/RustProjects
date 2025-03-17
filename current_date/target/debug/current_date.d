@@ -1,1 +1,1 @@
-D:\RustProject\current_date\target\debug\current_date.exe: D:\RustProject\current_date\src\main.rs
+D:\RustProjects\current_date\target\debug\current_date.exe: D:\RustProjects\current_date\src\main.rs
